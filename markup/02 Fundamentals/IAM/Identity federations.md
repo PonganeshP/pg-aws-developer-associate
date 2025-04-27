@@ -1,0 +1,1 @@
+Like the identity of fakebook or google can be used to access aws resources.
